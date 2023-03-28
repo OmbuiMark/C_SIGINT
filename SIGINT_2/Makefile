@@ -1,0 +1,2 @@
+SIGINT: SIGINT.c
+	gcc -o SIGINT SIGINT.c
